@@ -1,2 +1,2 @@
 # Competitive-Programming
-LeetCode June Challenge
+Posting all the solutions of LeetCode June Challenge
